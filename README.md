@@ -2,7 +2,7 @@
 
 **Software Engineering Undergrad (IMCA) | Full-Stack & Flutter Developer | AI & UI/UX Enthusiast**
 
-I build end-to-end web and mobile applications combining scalable backends (**Python/FastAPI, Java/Spring Boot**) with intuitive, accessible user interfaces (** UI/UX, Figma**).
+I build end-to-end web and mobile applications combining scalable backends (**Python/FastAPI, Java/Spring Boot**) with intuitive, accessible user interfaces (**UI/UX, Figma**).
 
 ---
 
