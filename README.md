@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Hujaif Belim 👋
 
-<!--
-**hujaif21/hujaif21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering Undergrad (IMCA) | Full-Stack & Flutter Developer | AI & UI/UX Enthusiast**
 
-Here are some ideas to get you started:
+I build end-to-end web and mobile applications combining scalable backends (**Python/FastAPI, Java/Spring Boot**) with intuitive, accessible user interfaces (**Flutter, React, Figma**).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Projects
+
+- 🤖 **[MockMate](https://github.com/hujaif21/mockmate)** — AI-assisted interview preparation portal featuring role configuration, STAR method evaluation, live text/voice/code workspaces, and automated feedback reporting.
+- 💪 **[FitZen](https://github.com/hujaif21/fitzen)** — Offline-first fitness and diet mobile application built in **Flutter & Dart** with step tracking, nutrition logging, workout guides, and local state persistence.
+- ☕ **[Friends Cafe](https://github.com/hujaif21/FinalCofeecafe)** — Full-stack cafe ordering and management platform powered by **Spring Boot, Thymeleaf, FastAPI, and React**.
+- ✨ **[Noir Digital Studio](https://github.com/hujaif21/Noir-Degitel-studio)** — Luxury perfume digital branding and interactive web experience with high-contrast modern UI design.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** Python, Java, Dart, JavaScript, SQL, C, PHP, HTML5/CSS3
+- **Frameworks & Backend:** FastAPI, Spring Boot, Flutter,SQLAlchemy, Supabase
+- **Databases & OS:** PostgreSQL, MySQL, SQLite, Linux
+- **Design & AI:** Figma, Penpot, UI/UX Systems (WCAG 2.1 AA), Prompt Engineering & LLM Integration
+
+---
+
+### 📫 Connect With Me
+- 🌐 **Portfolio:** [Link Coming Soon]
+- 📍 **Location:** Ahmedabad, Gujarat, India
