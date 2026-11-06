@@ -2,16 +2,16 @@
 
 **Software Engineering Undergrad (IMCA) | Full-Stack & Flutter Developer | AI & UI/UX Enthusiast**
 
-I build end-to-end web and mobile applications combining scalable backends (**Python/FastAPI, Java/Spring Boot**) with intuitive, accessible user interfaces (**Flutter, React, Figma**).
+I build end-to-end web and mobile applications combining scalable backends (**Python/FastAPI, Java/Spring Boot**) with intuitive, accessible user interfaces (** UI/UX, Figma**).
 
 ---
 
 ### 🚀 Featured Projects
 
 - 🤖 **[MockMate](https://github.com/hujaif21/mockmate)** — AI-assisted interview preparation portal featuring role configuration, STAR method evaluation, live text/voice/code workspaces, and automated feedback reporting.
-- 💪 **[FitZen](https://github.com/hujaif21/fitzen)** — Offline-first fitness and diet mobile application built in **Flutter & Dart** with step tracking, nutrition logging, workout guides, and local state persistence.
-- ☕ **[Friends Cafe](https://github.com/hujaif21/FinalCofeecafe)** — Full-stack cafe ordering and management platform powered by **Spring Boot, Thymeleaf, FastAPI, and React**.
-- ✨ **[Noir Digital Studio](https://github.com/hujaif21/Noir-Degitel-studio)** — Luxury perfume digital branding and interactive web experience with high-contrast modern UI design.
+- 💪 **[FitZen](https://github.com/hujaif21/fitzen)** — Online fitness and diet mobile application built in **Flutter & Dart** with step tracking, nutrition logging, workout guides, and local state persistence.
+- ☕ **[Friends Cafe](https://github.com/hujaif21/friends-cafe)** — Full-stack cafe ordering and management platform powered by **Spring Boot, Thymeleaf, FastAPI, and React**.
+- ✨ **[Noir Digital Studio](https://github.com/hujaif21/noir-digital-studio)** — Luxury perfume digital branding and interactive web experience with high-contrast modern UI design.
 
 ---
 
