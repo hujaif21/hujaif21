@@ -50,6 +50,6 @@ My mobile apps (Dhikr Counter Pro, NotMyFault) and UI/UX case study (FreshCart) 
 
 ## Contact
 
-- Portfolio: [YOUR-PORTFOLIO-LINK](https://YOUR-PORTFOLIO-LINK)
+- Portfolio: [https://hujaif-portfolio.vercel.app/)
 - LinkedIn: [linkedin.com/in/hujaif-belim21](https://linkedin.com/in/hujaif-belim21)
 - Email: hujaifbelim@gmail.com
