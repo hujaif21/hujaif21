@@ -1,59 +1,55 @@
-# Hi there, I'm Hujaif Belim! 👋
+# Hujaif Belim
 
 **Flutter Developer | Software Engineering Student (IMCA)**
 
-I'm a mobile app developer based in Ahmedabad, India, specializing in building cross-platform applications with **Flutter & Dart**. I love combining clean, accessible UI/UX design with lightweight backends (FastAPI, Supabase) and AI integrations (Google Gemini) to build smart, user-first mobile experiences.
+I build cross-platform mobile apps with Flutter and Dart, backed by lightweight services such as FastAPI, Supabase and Google Sheets. I design clean, accessible interfaces in Figma and integrate AI into apps using the Google Gemini API.
 
-Currently in my 5th semester of the Integrated Master of Computer Applications (IMCA) program at LJ University. 🎓
-
----
-
-### 🛠️ Tech Stack & Tools
-
-*   **Mobile Development:** Flutter, Dart
-*   **Backend & Database:** FastAPI, Python, Supabase, PostgreSQL, Spring
-*   **Languages:** Dart, Python, Java, C, JavaScript, PHP, SQL
-*   **AI & Integrations:** Google Gemini API, Prompt Engineering, Text-to-Speech
-*   **UI/UX Design:** Figma, Penpot, Miro, WCAG AA Accessibility Standards
-*   **Version Control:** Git, GitHub
+Based in Ahmedabad, India. I am currently in my 5th semester of the Integrated Master of Computer Applications (IMCA) program at LJ University, and I am looking for Flutter, App Development and Software Engineering internships.
 
 ---
 
-### 🚀 Featured Projects
+## Skills
 
-📱 **FitZen (In Progress)**
-*An offline-first fitness & nutrition tracking app built in Flutter.*
-*   Implemented a food-scan feature for real-time calorie and macronutrient tracking.
-*   Built a pedometer using on-device motion sensors for real step counts.
-*   **Backend:** Configured data persistence seamlessly using Google Sheets as a lightweight database.
-*   **Design:** Designed the complete brand identity, custom theme, and cross-platform UI.
+**Mobile:** Flutter, Dart
 
-🤖 **MockMate AI (In Progress)**
-*An AI-powered interview preparation platform.*
-*   Simulates dynamic job interviews with role-based questions using Google Gemini API.
-*   Features a code editor, PDF feedback-report exports, and scores answers based on communication, structure, and technical depth.
-*   **Stack:** JavaScript, Python, Supabase (Auth + RLS), PostgreSQL.
+**Languages:** Dart, Python, Java, C, JavaScript, PHP, SQL
 
-⏱️ **Dhikr Counter Pro & NotMyFault**
-*Production-ready mobile applications.*
-*   **Dhikr Counter Pro:** A cross-platform counting utility built with Flutter and a Python FastAPI backend.
-*   **NotMyFault:** A lightweight, humor-focused excuse generator app designed and shipped end-to-end in Flutter.
+**Backend and Data:** FastAPI, Supabase, PostgreSQL, Spring, Google Sheets
 
-☕ **Friends Cafe**
-*Business website for a local cafe client.*
-*   Designed and developed the complete web presence using Spring (backend), HTML, CSS, and JavaScript.
+**AI:** Google Gemini API
 
-🎨 **FreshCart (UI/UX Case Study)**
-*Mobile Grocery App Interface.*
-*   Built a mini design system mapping to strict WCAG AA contrast standards.
-*   Created reusable interactive components (default, hover, added-to-cart variants) in Figma.
+**Design and Tools:** Figma, Miro, Penpot, Git, GitHub
 
 ---
 
-### 📫 Let's Connect
+## Projects
 
-*   **Portfolio:** [Insert Your Vercel Portfolio Link Here]
-*   **LinkedIn:** [linkedin.com/in/hujaif-belim21](https://linkedin.com/in/hujaif-belim21)
-*   **Email:** hujaifbelim@gmail.com
+### FitZen (in progress, team of 3)
+A fitness and nutrition tracker built with Flutter and Dart. It scans food to return real calories, protein and carbs, and counts real steps using the phone's motion sensors. Data is stored with Google Sheets as a lightweight backend. I also designed the brand identity, logo and theme.
 
-💬 *I'm currently looking for Flutter, App Development, or Software Engineering internships for 2026. Feel free to reach out!*
+[View repository](https://github.com/hujaif21/fitzen)
+
+### MockMate AI (in progress, team of 3)
+An AI interview preparation platform built with JavaScript, Python, Supabase and PostgreSQL. It simulates job interviews with role-based questions and scores answers on communication, structure and technical depth using the Gemini API, with a local NLP fallback. It includes a code editor and PDF feedback reports.
+
+[View repository](https://github.com/hujaif21/mockmate)
+
+### Friends Cafe (team of 3)
+A business website for a local cafe client, built with Spring, HTML, CSS and JavaScript.
+
+[View repository](https://github.com/hujaif21/friends-cafe)
+
+### Noir Digital Studio
+A luxury perfume branding website with an interactive experience and a high-contrast modern interface.
+
+[View repository](https://github.com/hujaif21/noir-digital-studio) | [Live site](https://hujaif21.github.io/noir-digital-studio/)
+
+My mobile apps (Dhikr Counter Pro, NotMyFault) and UI/UX case study (FreshCart) are featured in my [portfolio](https://YOUR-PORTFOLIO-LINK).
+
+---
+
+## Contact
+
+- Portfolio: [YOUR-PORTFOLIO-LINK](https://YOUR-PORTFOLIO-LINK)
+- LinkedIn: [linkedin.com/in/hujaif-belim21](https://linkedin.com/in/hujaif-belim21)
+- Email: hujaifbelim@gmail.com
